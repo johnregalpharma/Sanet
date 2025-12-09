@@ -1,0 +1,20 @@
+{
+  "name": "Sigma Audley - Official - Premium research Peptides, SARMs & Compounds",
+  "short_name": "Sigma Audley",
+  "description": "Sigma Audley - Official - Premium research Peptides, SARMs & Compounds - Janoshik verified quality, Verified on GLP1Forum | Finnrick | FDA registered facility. Professional-grade research.",
+  "start_url": "/?utm_source=homescreen",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["business", "health"],
+  "icons": [
+    {
+      "src": "/ssa.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
