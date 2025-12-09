@@ -3,22 +3,22 @@
 Research Director: Dr. Chen Wei
 Title: Lead Peptide Researcher
 Location: Shanghai, China
-Contact: support [at] sigmaaudley.co
+Contact: support [at] sigmaaudley.net
 
 Quality Assurance: Sarah Johnson
 Title: ISO 9001:2015 Compliance Officer  
 Location: Global Operations
-Contact: support [at] sigmaaudley.co
+Contact: support [at] sigmaaudley.net
 
 Customer Success: Michael Zhang
 Title: Community Relations Manager
 Location: International Support
-Contact: support [at] sigmaaudley.co
+Contact: support [at] sigmaaudley.net
 
 SEO & Digital Marketing: Alex Thompson
 Title: Growth Marketing Specialist
 Location: Global Marketing
-Contact: support [at] sigmaaudley.co
+Contact: support [at] sigmaaudley.net
 
 /* THANKS */
 
@@ -46,7 +46,7 @@ Frameworks: Vanilla JavaScript, CSS3
 Name: Sigma Audley - Official - Premium research Peptides, SARMs & Compounds
 Founded: 2010
 Location: Shanghai, China
-Website: https://sigmaaudley.co
+Website: https://sigmaaudley.net
 Description: Janoshik verified quality, Verified on GLP1Forum | Finnrick | FDA registered facility
 Quality Standard: Professional-grade research
 Certifications: ISO 9001:2015
@@ -71,13 +71,13 @@ Research Publications: Supporting Scientific Studies
 
 /* CONTACT */
 
-Main Website: https://sigmaaudley.co
-Email: support [at] sigmaaudley.co  
+Main Website: https://sigmaaudley.net
+Email: support [at] sigmaaudley.net  
 Support: Available 24/7 Global
 Shipping: Worldwide Express Delivery
 
 ==================================================
     Sigma Audley - Official Website
-    https://sigmaaudley.co
+    https://sigmaaudley.net
     Research Excellence Since 2010
 ==================================================

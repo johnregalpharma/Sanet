@@ -3,7 +3,7 @@
     
     <!-- Homepage - Highest Priority -->
     <url>
-        <loc>https://sigmaaudley.co/</loc>
+        <loc>https://sigmaaudley.net/</loc>
         <lastmod>2025-01-12</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
@@ -11,7 +11,7 @@
     
     <!-- Trust and Reviews Page -->
     <url>
-        <loc>https://sigmaaudley.co/trust-and-reviews.html</loc>
+        <loc>https://sigmaaudley.net/trust-and-reviews.html</loc>
         <lastmod>2025-01-12</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
@@ -19,7 +19,7 @@
     
     <!-- FAQ Page -->
     <url>
-        <loc>https://sigmaaudley.co/faq.html</loc>
+        <loc>https://sigmaaudley.net/faq.html</loc>
         <lastmod>2025-01-12</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -27,7 +27,7 @@
     
     <!-- Refer a Friend Page -->
     <url>
-        <loc>https://sigmaaudley.co/refer-a-friend.html</loc>
+        <loc>https://sigmaaudley.net/refer-a-friend.html</loc>
         <lastmod>2025-01-12</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -35,21 +35,21 @@
     
     <!-- Standard Files -->
     <url>
-        <loc>https://sigmaaudley.co/humans.txt</loc>
+        <loc>https://sigmaaudley.net/humans.txt</loc>
         <lastmod>2025-01-12</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.3</priority>
     </url>
     
     <url>
-        <loc>https://sigmaaudley.co/security.txt</loc>
+        <loc>https://sigmaaudley.net/security.txt</loc>
         <lastmod>2025-01-12</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.3</priority>
     </url>
     
     <url>
-        <loc>https://sigmaaudley.co/manifest.json</loc>
+        <loc>https://sigmaaudley.net/manifest.json</loc>
         <lastmod>2025-01-12</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.4</priority>

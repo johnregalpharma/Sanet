@@ -39,7 +39,7 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 # WWW TO NON-WWW REDIRECT FOR SEO
 RewriteCond %{HTTP_HOST} ^www\.sigmaaudley\.net [NC]
-RewriteRule ^(.*)$ https://sigmaaudley.co/$1 [L,R=301]
+RewriteRule ^(.*)$ https://sigmaaudley.net/$1 [L,R=301]
 
 # CLEAN URL STRUCTURE (REMOVE .html)
 RewriteCond %{REQUEST_FILENAME} !-d
@@ -47,11 +47,11 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.html [NC,L]
 
 # CANONICAL HOMEPAGE REDIRECTS - ENSURE INDEX.HTML DOMINANCE
-RewriteRule ^home$ https://sigmaaudley.co/ [R=301,L]
-RewriteRule ^main$ https://sigmaaudley.co/ [R=301,L]
-RewriteRule ^homepage$ https://sigmaaudley.co/ [R=301,L]
-RewriteRule ^start$ https://sigmaaudley.co/ [R=301,L]
-RewriteRule ^default$ https://sigmaaudley.co/ [R=301,L]
+RewriteRule ^home$ https://sigmaaudley.net/ [R=301,L]
+RewriteRule ^main$ https://sigmaaudley.net/ [R=301,L]
+RewriteRule ^homepage$ https://sigmaaudley.net/ [R=301,L]
+RewriteRule ^start$ https://sigmaaudley.net/ [R=301,L]
+RewriteRule ^default$ https://sigmaaudley.net/ [R=301,L]
 
 # ═══════════════════════════════════════════════════════════════════
 # RANKING RECOVERY REDIRECTS - SEPTEMBER 12, 2025
@@ -113,9 +113,9 @@ Redirect 301 /index2.0.html /index.html
 Redirect 301 /site-plan.html /index.html
 
 # BRAND NAME REDIRECTS - STRENGTHEN HOMEPAGE AUTHORITY
-Redirect 301 /sigma-audley https://sigmaaudley.co/
-Redirect 301 /sigmaaudley https://sigmaaudley.co/
-Redirect 301 /official https://sigmaaudley.co/
+Redirect 301 /sigma-audley https://sigmaaudley.net/
+Redirect 301 /sigmaaudley https://sigmaaudley.net/
+Redirect 301 /official https://sigmaaudley.net/
 
 # SECURITY HEADERS FOR SEO TRUST
 <IfModule mod_headers.c>

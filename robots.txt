@@ -1,5 +1,5 @@
 # Sigma Audley Official Website
-# https://sigmaaudley.co
+# https://sigmaaudley.net
 
 User-agent: Googlebot
 Allow: /
@@ -46,4 +46,4 @@ Disallow: /research-peptides-ultimate-authority.html
 Disallow: /glp1-forum-verified-excellence.html
 
 # Sitemap location for faster discovery
-Sitemap: https://sigmaaudley.co/sitemap.xml
+Sitemap: https://sigmaaudley.net/sitemap.xml
